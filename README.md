@@ -11,9 +11,11 @@
   <a href="#">
     <img alt="puppeter-captcha-solving-tutorial forks" src="https://img.shields.io/github/forks/omkarcloud/puppeter-captcha-solving-tutorial?style=for-the-badge" />
   </a>
+
   <a href="#">
-    <img alt="Repo stars" src="https://imbg.shields.io/github/stars/omkarcloud/puppeter-captcha-solving-tutorial?style=for-the-badge&color=yellow" />
+    <img alt="Repo stars" src="https://img.shields.io/github/stars/omkarcloud/puppeter-captcha-solving-tutorial?style=for-the-badge&color=yellow" />
   </a>
+
   <a href="#">
     <img alt="puppeter-captcha-solving-tutorial License" src="https://img.shields.io/github/license/omkarcloud/puppeter-captcha-solving-tutorial?color=orange&style=for-the-badge" />
   </a>
