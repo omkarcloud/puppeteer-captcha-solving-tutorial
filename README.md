@@ -2,7 +2,7 @@
   <img src="https://www.omkar.cloud/images/favicon/prod/favicon-256x256.png" alt="omkar" />
 </p>
   <div align="center" style="margin-top: 0;">
-  <h1>✨ Solve Captch in Puppeteer using CapSolver ✨</h1>
+  <h1>✨ Solve Captcha in Puppeteer using CapSolver ✨</h1>
 </div>
 <em>
   <h5 align="center">(Programming Language - Python 3)</h5>
