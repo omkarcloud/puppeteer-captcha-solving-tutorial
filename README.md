@@ -39,9 +39,9 @@ In the tutorial, we will be solving captchas at [recaptcha-demo.appspot.com](htt
 
 ![Captcha Form](https://raw.githubusercontent.com/omkarcloud/puppeter-captcha-solving-tutorial/master/images/recaptcha-v2-checkbox.png)
 
-The tutorial is also available as a YouTube video 🎥, which you can access using the following video:
+The tutorial is available as a YouTube video 🎥, which you can access using the following video:
 
-[![Puppeteer Captcha Solving Tutorial](https://raw.githubusercontent.com/omkarcloud/puppeter-captcha-solving-tutorial/master/images/video.png)](TODO_YOUTUBE_LINK)
+[![Puppeteer Captcha Solving Tutorial](https://raw.githubusercontent.com/omkarcloud/puppeter-captcha-solving-tutorial/master/images/video.png)](https://www.youtube.com/watch?v=yLtjtthd1xo)
 
 ## 🚀 Running the Code
 If you are interested in seeing the captcha-solving process in action, follow these steps:
@@ -75,7 +75,8 @@ Once the captcha is successfully solved, you will be greeted with the following 
 
 ## ✅ Final Code
 
-This is the final code of `main.py` that solves the captcha. I encourage you to read and understand the code to grasp the process of captcha solving.
+Just want to see the code? Here it is, read and understand the code to grasp the process of captcha solving.:
+
 
 ```python
 import asyncio
@@ -121,6 +122,10 @@ async def main():
 if __name__ == "__main__":
     asyncio.get_event_loop().run_until_complete(main())
 ```
+
+Want to understand the code? Watch the [tutorial](https://www.youtube.com/watch?v=yLtjtthd1xo)!
+
+[![Puppeteer Captcha Solving Tutorial](https://raw.githubusercontent.com/omkarcloud/puppeter-captcha-solving-tutorial/master/images/video.png)](https://www.youtube.com/watch?v=yLtjtthd1xo)
 
 ---
 
