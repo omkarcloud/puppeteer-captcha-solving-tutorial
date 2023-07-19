@@ -57,7 +57,7 @@ cd puppeter-captcha-solving-tutorial
 python -m pip install pyppeteer capsolver-python
 ```
 
-3️⃣ Get your CapSolver API Key by following the "Setup CapSolver" section of this tutorial. You can view the section [here](TODO).
+3️⃣ Get your CapSolver API Key by following the "Setup CapSolver" section of this tutorial. Watch that section in this [timestamp](https://youtu.be/yLtjtthd1xo?t=104).
 
 ![Store API Key](https://raw.githubusercontent.com/omkarcloud/puppeter-captcha-solving-tutorial/master/images/store-api-key.png)
 
@@ -133,8 +133,3 @@ Want to understand the code? Watch the [tutorial](https://www.youtube.com/watch?
 
 [![Star History Chart](https://api.star-history.com/svg?repos=omkarcloud/puppeter-captcha-solving-tutorial&type=Timeline)](https://star-history.com/#omkarcloud/puppeter-captcha-solving-tutorial&Timeline)
 
-
-<!-- TOSO:
-    Article /blog/ replacement
-    TODO: VIDEO FIX
- -->
